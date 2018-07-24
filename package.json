@@ -1,0 +1,23 @@
+{
+  "name": "vanillaspa",
+  "version": "1.0.0",
+  "description": "A demo single page app project build with vanilla javascript",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvworldwide/vanillaSpa.git"
+  },
+  "author": "jv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvworldwide/vanillaSpa/issues"
+  },
+  "homepage": "https://github.com/jvworldwide/vanillaSpa#readme"
+}
